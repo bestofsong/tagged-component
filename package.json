@@ -1,0 +1,26 @@
+{
+  "name": "tagged-component",
+  "version": "1.0.0",
+  "description": "use js proxy to add prop callback hooks for jsx components written like this tagged.tag1.tag2.Button; everything can be customized including which prop to hook, which framework(react or react-native); easy to config: provide a { tag1: { tag2: data } } alike as configuration; tag names together with component props and state and the configuration object is passed to the hook method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestofsong/tagged-component.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "hook",
+    "props",
+    "tag"
+  ],
+  "author": "wansong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestofsong/tagged-component/issues"
+  },
+  "homepage": "https://github.com/bestofsong/tagged-component#readme"
+}
